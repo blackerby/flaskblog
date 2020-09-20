@@ -1,2 +1,6 @@
 __pycache__/
-flaskblog/
+venv/
+.vscode
+.gitignore
+flaskblog/__pycache__
+flaskblog/__init__.pyc
